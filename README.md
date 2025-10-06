@@ -1,3 +1,5 @@
+![Profile Views](https://komarev.com/ghpvc/?username=Irish-Ice&style=flat&color=gray) 
+
 # 👋 Welcome to My Corner of Code
 
 ### ❄️ Irish-Ice
@@ -16,23 +18,11 @@ This space is a collection of my experiments, tools, and ideas — all arranged 
 
 ---
 
-### 📊 GitHub Stats
+### 📊 Quick Stats (fallback)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Irish-ice&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
-[Irish-Ice's GitHub stats](https://github-readme-stats.vercel.app/api?username=Irish-Ice&show_icons=true&theme=transparent&hide_border=true&hide_title=true&include_all_commits=true)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Irish-ice&theme=dark&background=000000)](https://git.io/streak-stats)
 
-[Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Irish-Ice&layout=compact&theme=transparent&hide_border=true)
-
----
-
-### 🏷️ Badges
-
-[Profile Views](https://komarev.com/ghpvc/?username=Irish-Ice&style=flat&color=gray)
-
-[GitHub followers](https://img.shields.io/github/followers/Irish-Ice?style=flat&color=gray)
-
-[GitHub stars](https://img.shields.io/github/stars/Irish-Ice?style=flat&color=gray)
-
----
 
 ### 🌍 Philosophy
 
